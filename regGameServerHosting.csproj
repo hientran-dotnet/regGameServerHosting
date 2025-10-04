@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bogus" Version="35.6.4" />
     <PackageReference Include="Microsoft.Playwright" Version="1.55.0" />
   </ItemGroup>
 
